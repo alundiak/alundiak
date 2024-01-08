@@ -1,24 +1,16 @@
-### Hi 👋, I'm Andrii Lundiak
+### Hi 👋, I'm Andrii Lundiak - a persistent and determined fullstack developer
 
 <!--
 **alundiak/alundiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-<h3 align="center">A persistent and determined fullstack developer</h3>
 
 
 - 👯 I’m looking to collaborate on **projects around NodeJS, TypeScript, react or Angular**
 - 🌱 I’m currently learning **NestJS, CosmosDB**
 - 💬 Ask me about **JavaScript, TypeScript, NodeJS, React, Angular, GraphQL**
 - 📝 I regularly write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alundiak&show_icons=true&locale=en&layout=compact" alt="alundiak" />
+&nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alundiak&show_icons=true&locale=en" alt="alundiak" />
+</p>
