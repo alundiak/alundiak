@@ -4,7 +4,6 @@
 **alundiak/alundiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 - 👯 I’m looking to collaborate on **projects around JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
 - 🌱 I’m currently learning **NestJS, CosmosDB, Redis**
 - 📝 I sometimes write articles on [https://worknme.wordpress.com/](https://worknme.wordpress.com/)
