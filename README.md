@@ -1,10 +1,10 @@
-### Hi 👋, I'm Andrii Lundiak - a persistent and determined fullstack developer
+### Hi 👋, I'm Andrii Lundiak - a persistent and determined Fullstack Developer
 
 <!--
 **alundiak/alundiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👯 I’m looking for the full-time regular employment job with Tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
+- 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular employment contract_ within Poland and tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
 - 🌱 I’m currently learning **NestJS, CosmosDB, Redis**
 - ✨ I also like to contribute to open source projects, buu not much for active maintenance.
 
