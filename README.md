@@ -1,4 +1,4 @@
-### Hi 👋, I'm Andrii Lundiak - a persistent and determined Fullstack Developer
+### Hi 👋, I'm Andrii Lundiak - a persistent and determined Senior Fullstack Developer
 
 <!--
 **alundiak/alundiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
