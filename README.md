@@ -5,7 +5,7 @@
 -->
 
 - 👯 I’m looking for the Senior job position as Fullstack or Frontend engineer/developer with _full-time regular employment contract_ within Poland and tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
-- 🌱 I’m currently learning **NestJS, CosmosDB, Redis**
+- 🌱 I’m currently learning **Apollo GraphQL Federation**
 - ✨ I also like to contribute to open source projects, buu not much for active maintenance.
 
 <p>
