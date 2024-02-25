@@ -1,10 +1,10 @@
-### Hi 👋, I'm Andrii Lundiak - a persistent and determined Senior Fullstack Developer
-
 <!--
 **alundiak/alundiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👯 Senior Fullstack or Frontend engineer/developer in tech stack around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
+### Hi 👋, I'm Andrii Lundiak - a persistent and determined Senior Fullstack Developer
+
+- My tech stack is around **JavaScript, TypeScript, NodeJS, React or Angular and GraphQL**
 <!--
 - 🌱 I’m going to learn something soon...
 -->
